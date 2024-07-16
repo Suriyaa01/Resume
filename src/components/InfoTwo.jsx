@@ -5,7 +5,7 @@ function InfoTwo() {
         <div className='container mx-auto flex item-center py-16'>
  
             <div className='w-1/2 px-6'>
-                <h2 className='text-3xl font-semibold'>wellcome</h2>
+                <h2 className='text-3xl font-semibold'>Well Come</h2>
                 <p className='text-gray-600 mt-4'>ME</p>
             </div>
             <div className='w-1/2'>
